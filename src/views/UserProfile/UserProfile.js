@@ -13,8 +13,6 @@ import CardAvatar from "components/Card/CardAvatar.js";
 import CardBody from "components/Card/CardBody.js";
 import CardFooter from "components/Card/CardFooter.js";
 
-import avatar from "assets/img/faces/marc.jpg";
-
 const styles = {
   cardCategoryWhite: {
     color: "rgba(255,255,255,.62)",
@@ -153,11 +151,6 @@ export default function UserProfile() {
         </GridItem>
         <GridItem xs={12} sm={12} md={4}>
           <Card profile>
-            <CardAvatar profile>
-              <a href="#pablo" onClick={e => e.preventDefault()}>
-                <img src={avatar} alt="..." />
-              </a>
-            </CardAvatar>
             <CardBody profile>
               <h6 className={classes.cardCategory}>CEO / CO-FOUNDER</h6>
               <h4 className={classes.cardTitle}>Alec Thompson</h4>
