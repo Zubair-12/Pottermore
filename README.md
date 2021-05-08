@@ -11,10 +11,6 @@ Host Harry Potter-themed personality quizzes, trivia questions, and community po
 ## 🖼️ Sample Graphics
 <img width="480" alt="loginn" src="https://user-images.githubusercontent.com/82287313/117483589-e380e400-af33-11eb-84bf-d1aadbcf7286.PNG"> <img width="485" alt="sign in" src="https://user-images.githubusercontent.com/82287313/117483592-e4197a80-af33-11eb-801b-2f2f3e91532c.PNG"> 
 
-## 🔨How we built it
-
-We designed a prototype on Figma to help visualize each tab. We then had to research about Harry Potter and some trivia questions to add and make answer keys. We then started coding on Github.
-
 ## 🧠Challenges we ran into
 
 * Brainstorming magic-themed projects
@@ -24,12 +20,14 @@ We designed a prototype on Figma to help visualize each tab. We then had to rese
 
 ## 🏅Accomplishments that we're proud of
 
-Making a magic-themed & Harry Potter-themed project in the time allotted and despite the challenges. Creating a captivating design and coding it.
+Making a magic-themed & Harry Potter-themed project in the time allotted and despite the challenges. Creating a captivating design and coding it. Even though we couldn't get the project fully coded we still did **really** good for _beginners_.
 
 ## 📖What we learned
 
-* How to design a interactive Figma web prototype.
-* How to code a quiz
+* How to design an interactive Figma quiz, trivia, and poll prototype.
+* How to code a quiz, trivia, and polls.
+* How to set up a Github
+* How to set up Github pages and how to deploy them.
 
 ## 🚀What's next for _⚡ Pottermore_
 
