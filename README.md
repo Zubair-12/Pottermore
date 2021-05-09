@@ -33,3 +33,7 @@ Making a magic-themed & Harry Potter-themed project in the time allotted and des
 
 * Make an online forum for others to communicate
 * To offer points & rewards to those who successfully pass the trivia sets.
+
+# Theme ⚡ Pottermore_
+The following theme was used when creating Pottermore: Material Dashboard React from https://www.creative-tim.com/product/material-dashboard-react?partner=104080 by Creative Tim
+
